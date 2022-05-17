@@ -7,4 +7,4 @@ Find me on:
 </a>
 <img src="https://komarev.com/ghpvc/?username=scalar-tns&style=flat-square&color=blue" alt=""/>
 
-![My resume](CV_fr_Matteo_Cutrone.png)
+![My resume](CV_fr_Matteo_Сutrone.png)
