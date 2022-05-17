@@ -1,4 +1,4 @@
-Click [here](https://github.com/scalar-tns/scalar-tns/raw/gh-pages/CV_Matteo_%D0%A1utrone.pdf) to download my resume in pdf format.
+Click [here](https://github.com/scalar-tns/scalar-tns/raw/gh-pages/CV_fr_Matteo_%D0%A1utrone.pdf) to download my resume in pdf format.
 
 Find me on:
 
@@ -7,4 +7,4 @@ Find me on:
 </a>
 <img src="https://komarev.com/ghpvc/?username=scalar-tns&style=flat-square&color=blue" alt=""/>
 
-![My resume](CV_Matteo_Сutrone.png)
+![My resume](CV_fr_Matteo_Сutrone.png)
